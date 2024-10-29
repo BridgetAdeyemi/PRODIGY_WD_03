@@ -17,4 +17,7 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Players X and O 
 - Players alternate turns by clicking empty tiles, with Player O following Player X.        
 - The first player to get three marks in a row (horizontal, vertical, or diagonal) wins!      
 - If all tiles are filled without any player winning, the game ends in a draw.        
-- Click "Play Again" to reset the game.        
+- Click "Play Again" to reset the game.
+
+  **Live Demo**           
+  Checkout the live version of the project here:           
