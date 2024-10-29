@@ -20,4 +20,4 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. Players X and O 
 - Click "Play Again" to reset the game.
 
   **Live Demo**           
-  Checkout the live version of the project here:           
+  Checkout the live version of the project here: https://bridgetadeyemi.github.io/PRODIGY_WD_03/        
